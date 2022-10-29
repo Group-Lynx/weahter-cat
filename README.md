@@ -4,6 +4,10 @@
 
 A GitHub Repo for Group Project of **Group 6**
 
+## Idea Board
+
+[Idea Board - Miro](https://miro.com/app/board/uXjVPKqB378=/?share_link_id=454153821692)
+
 ## Members
 
 > In no particular order.
