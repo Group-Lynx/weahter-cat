@@ -6,6 +6,8 @@ A GitHub Repo for Group Project of **Group 6**
 
 ## Idea Board
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPKqB378=/?moveToViewport=-815,-360,1894,1096&embedId=458338106811" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 [Idea Board - Miro](https://miro.com/app/board/uXjVPKqB378=/?share_link_id=454153821692)
 
 ## Members
