@@ -23,3 +23,5 @@ A GitHub Repo for Group Project of **Group 6**
 - [**ShawnFU2** (Jingyi Xu)](https://github.com/ShawnFU2)
 
 ## "I've been here before"
+
+- Who said only stars could shine?  --Saplyn, 10/29/2022
