@@ -1,6 +1,6 @@
 <img src="assets\CS6_Icon.png" align=right />
 
-# Weahter Cat
+# Weather Cat
 
 ## Description
 
