@@ -8,9 +8,15 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 
 ## Idea Board
 
+### Complete Board
+
 - [View it on Miro](https://miro.com/app/board/uXjVPKqB378=/?share_link_id=454153821692)
 - [See the picture version](Idea_Board/idea_board-pic.jpg)
 - [See the pdf version](Idea_Board/idea_board.pdf)
+
+### Related Materials
+
+- ~~currently empty~~
 
 ## Members
 
