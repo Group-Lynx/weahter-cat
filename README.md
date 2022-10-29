@@ -1,3 +1,5 @@
+<img src="assets\CS6_Icon.png" align=right />
+
 # Weahter Cat
 
 ## Description
@@ -7,7 +9,7 @@ A GitHub Repo for Group Project of **Group 6**
 ## Idea Board
 
 - [View it on Miro](https://miro.com/app/board/uXjVPKqB378=/?share_link_id=454153821692)
-- [See the picture version](/assets/idea_board-pic.jpg)
+- [See the picture version](assets/idea_board-pic.jpg)
 - [See the pdf version](assets/idea_board.pdf)
 
 ## Members
