@@ -4,13 +4,13 @@
 
 ## Description
 
-A GitHub Repo for Group Project of **Group 6**
+A GitHub Repo for Group Project of **CS 2022 Group 6**
 
 ## Idea Board
 
 - [View it on Miro](https://miro.com/app/board/uXjVPKqB378=/?share_link_id=454153821692)
-- [See the picture version](assets/idea_board-pic.jpg)
-- [See the pdf version](assets/idea_board.pdf)
+- [See the picture version](Idea_Board/idea_board-pic.jpg)
+- [See the pdf version](Idea_Board/idea_board.pdf)
 
 ## Members
 
