@@ -33,3 +33,4 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 
 - Who said only stars could shine?  *--Saplyn, 10/29/2022*
 - Draco Dromiens Nunquam Titillandus  *--Yuayao Fan (Felix) 10/30/2022*
+- The whole process of entering this website and change my informantion is too fucking difficult for me,i am a idiot for network(LOL) *--Shawn 10/30/2022*
