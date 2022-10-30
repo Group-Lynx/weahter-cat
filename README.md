@@ -31,4 +31,4 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 ## "I've been here before"
 
 - Who said only stars could shine?  *--Saplyn, 10/29/2022*
--Draco Dromiens Nunquam Titillandus  --Yuayao Fan (Felix) 10/30/2022
+- Draco Dromiens Nunquam Titillandus  --Yuayao Fan (Felix) 10/30/2022
