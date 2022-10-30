@@ -16,7 +16,7 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 
 ### Related Materials
 
-- ~~currently empty~~
+- [Advice From Classmates *by @xiaofan2005*](Idea_Board/Felix(Yueyao%20Fan)%20assignment(advice%20from%20classmates).doc)
 
 ## Members
 
