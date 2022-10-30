@@ -36,3 +36,4 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 - Draco Dromiens Nunquam Titillandus  *--Yuayao Fan (Felix) 10/30/2022*
 - The whole process of entering this website and change my informantion is too fucking difficult for me,i am a idiot for network(LOL) *--Shawn 10/30/2022*
 - Tired. *--HSophia666 10/30/2022*
+##I finally jioned our own group!
