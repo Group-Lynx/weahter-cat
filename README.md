@@ -20,6 +20,10 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 - [What activities are affected by the weather](Idea_Board/Materials/What%20activities%20are%20affected%20by%20the%20weather？.docx) *by @HSophia666*
 - [Need Analyze](Idea_Board/Materials/need_analyze-Saplyn.md) *by @Saplyn*
 
+## System Requirement
+
+- [System Requirement](System_Requirement/system_requirement.pdf)
+
 ## Members
 
 > In no particular order.
