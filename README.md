@@ -22,6 +22,8 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 
 ## System Requirement
 
+- Use Cases [pdf Version](System_Requirement/use_Cases.pdf) or [View it on Miro](https://miro.com/app/board/uXjVPKqB378=/?share_link_id=454153821692)
+- User-Story Map [pdf Version](System_Requirement/user_story_map.pdf) or [View it on Miro](https://miro.com/app/board/uXjVPKqB378=/?share_link_id=454153821692)
 - [System Requirement](System_Requirement/system_requirement.pdf)
 
 ## Members
