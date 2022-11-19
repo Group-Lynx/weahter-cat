@@ -33,6 +33,13 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 - [Code Base (in python)](Code/weather_cat.py)
 - [Video Presentaion](https://youtu.be/LzMunNPmSes)
 
+## References & Shoutout
+
+- [Miro Board](https://miro.com/)
+- [Anaconda](https://www.anaconda.com/)
+- Chen Xue (our teacher)
+- Priscilla Kan John (our teacher)
+
 ## Members
 
 > In no particular order.
