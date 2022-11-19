@@ -31,6 +31,7 @@ A GitHub Repo for Group Project of **CS 2022 Group 6**
 - [Team Management Doc](Team%20Management/Team%20Process.md)
 - [Social Reflection](Social%20Reflection/Possible%20social%20impacts%20of%20weather%20on%20people.docx)
 - [Code Base (in python)](Code/weather_cat.py)
+- [Video Presentaion](https://youtu.be/LzMunNPmSes)
 
 ## Members
 
