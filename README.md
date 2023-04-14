@@ -1,3 +1,7 @@
+# [NOTICE] Repo Archived
+
+**This is a repo for the Assignment of the Intro to Computer Science and Technology course, and already submitted. Archive because no further commit will take place.**
+
 <img src="assets\CS6_Icon.png" align=right />
 
 # Weather Cat
